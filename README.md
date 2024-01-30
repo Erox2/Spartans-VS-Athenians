@@ -9,11 +9,11 @@ The objective of the game is for the Spartans (RED) to capture the treasure, and
  
 CONTROLS
  
-Player 1, The Spartans
+Player 1, The Atheanians
 
 Controls are W, A, S, D
  
-Player 2, The Athenians
+Player 2, The Spartans
 
 Controls are UP ARROW, LEFT ARROW, DOWN ARROW and RIGHT ARROW
  
