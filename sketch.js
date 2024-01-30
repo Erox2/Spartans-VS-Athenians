@@ -33,12 +33,12 @@ function setup() {
 
 function draw() {
   image(bg,0,0);
-  tekst();
   player1();
   player2();
   kollisjon();
   kollisjon2();
   treasure();
+  tekst();
 }
 
 
